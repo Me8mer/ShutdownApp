@@ -1,0 +1,51 @@
+# Ignore build & debug files
+bin/
+obj/
+Debug/
+Release/
+*.pdb
+*.exe
+*.dll
+*.cache
+*.log
+
+# Ignore user-specific settings
+*.user
+*.suo
+*.vsp
+*.vspscc
+*.vssscc
+
+# Ignore VS Code settings
+.vscode/
+*.code-workspace
+
+# Ignore ClickOnce publish files
+publish/
+
+# Ignore ReSharper files (if using)
+.idea/
+*.DotSettings.user
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+project.lock.json
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.cache
+*.pdb
+*.db
+*.vscode/
+*.vsidx
+*.dtbcache.v2
+*.futdcache.v2
+*.backup.json
