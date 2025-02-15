@@ -1,0 +1,1 @@
+Unzip the DIR and start the ShutdownApp.exe
